@@ -4,7 +4,7 @@ Nine types, asked roughly in this order: from concrete to abstract, and from the
 
 ## The focus and bridge questions
 
-**The focus** is one thing the child is still learning to do. Most often it's type 5 (from a word to what it makes the reader feel) or type 6 (seeing the author as the one choosing), because those come slowest. It can be any type: summing up without retelling everything, or giving evidence from two places.
+**The focus** is one thing the child is still learning to do. If the school has set a reading target this term, start from it. Otherwise, most often it's type 5 (from a word to what it makes the reader feel) or type 6 (seeing the author as the one choosing), because those come slowest. It can be any type: summing up without retelling everything, or giving evidence from two places.
 
 **Bridge questions** start where the child is already strong and end on the focus. Plan two or three:
 
@@ -38,13 +38,17 @@ Each type below has: **aim** · **stems** to adapt · **follow-ups** · **hints*
 - **If something was unclear:** sort it out now (the gist gate). Explain it briefly, or ask "What do you think was happening there?", then move on.
 - **A good answer** names a specific part and a reason.
 
-## 2 · Sum up
+## 2 · Sum up, and the main idea
 
-- **Aim:** tell the important parts in their own words.
-- **Stems:** "Tell me the story as if I were three years younger than you." · "What were the most important things that happened, in your own words?" · (Mode B) "What happened in this chapter?"
-- **Follow-ups:** "What could we leave out and still understand it?" · "What changed between the beginning and the end?"
-- **Hints:** (1) "How did it start?" (2) "And what was the big problem?"
-- **A good answer** is in the child's own words (not copied lines), has the turning point, and leaves out small details.
+Two different skills. Summing up is choosing what matters; the main idea is what the whole book keeps coming back to. Children who read a lot often retell well but find both of these hard. Ask at least one sum-up question in every mode A talk, even when the focus is elsewhere.
+
+- **Aim:** tell the important parts in their own words, then say what the whole book is about and show it from more than one place.
+- **Stems (sum up):** "Tell me the whole book in three sentences, for someone who hasn't read it." · "Tell me the story as if I were three years younger than you." · (Mode B) "What happened in this chapter, in a few sentences?"
+- **Stems (main idea):** "If the whole book is about one big thing, what is it?" then "Show me one place near the start and one near the end where you can see it."
+- **Follow-ups:** "Which of your sentences could we cut and still understand it?" · "What's missing that the story can't work without?" · "What changed between the beginning and the end?"
+- **Hints:** (1) "Who wanted what, what got in the way, and how did it end?" (2) "What was the big problem? How was it solved?"
+- **Two books:** if the child has read two books recently, "Is there anything the two books are both about?" builds the same skill across texts.
+- **A good answer** is in the child's own words (not copied lines), has the turning point and leaves out small details. A good main idea is a sentence, not a single word ("lies can grow out of control", not "lies"), backed by two places far apart in the book.
 
 ## 3 · Characters: why and how they change
 

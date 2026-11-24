@@ -33,8 +33,9 @@ Ask which mode fits if it's not obvious. A long talk can be split across two sit
 2. Child's age, and how comfortable they are with books at this level.
 3. Does the child have the book to hand? In mode A, have they read the very last pages too (epilogue, letter, afterword)? Children often skip them, and the ending can turn on them.
 4. Parent's language for coaching and the summary (default: the language they wrote in).
-5. What the parent most wants the child to get better at. This becomes the focus. If the parent isn't sure, suggest one: the "Next time" from the last summary, or by default type 5 (from a word to what it makes the reader feel).
-6. Optional: words the child is learning at school, and anything to avoid (e.g. a sad chapter).
+5. What the parent most wants the child to get better at. This becomes the focus. **Ask what the school's current reading target is** (from a report or a parents' meeting, e.g. "summarise a text and find its main ideas"). If there is one, it comes first: home talks that pull the same way as the classroom help most. Otherwise suggest one: the "Next time" from the last summary, or by default type 5 (from a word to what it makes the reader feel).
+6. Optional: words the child is learning at school, and anything to avoid (e.g. a sad chapter). Also ask whether the child gets flustered when questions come quickly; if so, keep a slower pace (see "Rough version first").
+7. If the child has finished two books, talk about one at a time, with a break in between. Back-to-back talks colour each other: an idea from the first shows up in the second because you just asked about it.
 
 ### 2. Prepare the book → `references/book-prep.md`
 
@@ -43,6 +44,8 @@ Build a **Book Brief**: characters, plot spine, 6–10 key moments with chapters
 ### 3. Choose the focus, then plan the questions → `references/question-map.md`
 
 **Focus first.** Name the focus (from intake) and the child's strengths that can lead to it, for example "reads characters well", "likes comparing two versions", "notices what the book keeps back". Plan 2–3 **bridge questions** that start from a strength and end on the focus.
+
+**Don't let the focus crowd out the basics.** In mode A, always ask one sum-up question (type 2), even a short one: being able to say what a book is about is what schools test most, and it is the first thing to drop when a talk goes well on something else. If the last two or three summaries show a type was skipped every time, give it a real question this time.
 
 Then fill the rest from the nine types, in this order: (1) first response and anything unclear, (2) sum up, (3) characters, (4) one word, (5) one moment, picture it then look at a word, (6) the author's choices, (7) a stance question, (8) connections, (9) close. The focus gets the most time. Other types can be one quick question, or be skipped if the talk is going well on the focus. Write every question about **this** book, naming a real moment. Show the parent the plan in one screen: the focus and the bridges first, then each question, why it's there, and what a good answer touches on. Then ask "Ready when you are."
 
@@ -67,10 +70,11 @@ Special moves (details in talk-rules.md):
 - **How did you work that out?** After the child figures something out, ask what they did. Their own words become their reading tips.
 - **Back to the book:** after a personal connection or a "lesson", ask "Where in the book did you see that?"
 - **Show the path, not just the answer:** if you reach rung 3, say it as clue + what we know → so…
+- **Rough version first:** for a child who freezes when questions come fast, say before a big question, "Give me a rough version first; you can change it." Ask one question, then wait. No follow-up chains.
 
 ### 5. Close and summarise → `references/parent-summary.md`
 
-Have the parent thank the child for something specific, ask the child to say in their own words one thing they did today that they could do again, and offer one choice ("Another chapter tomorrow?"). After the child has left, write the parent summary: three to five sentences that start with the step the child took on the focus today and where to pick up next time; per question, a short quote, the help level and what it shows; the child's own reading tips; words they didn't know; one or two next steps; and two questions to ask again, word for word, in about four weeks.
+Have the parent thank the child for something specific, ask the child to say in their own words one thing they did today that they could do again, and offer one choice ("Another chapter tomorrow?"). Optionally, **keep one word**: the child picks one new word from the book and, in one minute, spells it, says what it means, makes a sentence about their own life with it, and gives a nearby word. One or two words learned this well stick better than ten learned once. After the child has left, write the parent summary: three to five sentences that start with the step the child took on the focus today and where to pick up next time; per question, a short quote, the help level and what it shows; the child's own reading tips; words they didn't know; one or two next steps; and two questions to ask again, word for word, in about four weeks.
 
 ## Non-negotiables
 

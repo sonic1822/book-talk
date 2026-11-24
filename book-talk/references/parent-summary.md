@@ -39,6 +39,8 @@ Ask again in about 4 weeks (word for word, to see change)
 - **Help levels on types 5–6** (words and the author's choices) dropping over time. This is the slowest skill and the most important.
 - **The author as the one choosing:** the child says "Montgomery doesn't tell us…" without being asked about the author. Note the exact words and whether you had named the author first.
 - **Stance:** held with a reason / changed with a reason / changed without one.
+- **Types that keep getting skipped:** check the last few summaries. If summing up (type 2) or any other type was skipped every time, plan a real question for it next time. A talk that goes well on one thing can quietly crowd the rest out for weeks.
+- **The school's target:** if the school has set a reading target, say in each summary what the child did towards it today.
 - **Gist gates:** if they're frequent, the books may be too hard. Suggest mode B, or a slightly easier book.
 
 ## Optional log (for parents who want to keep a record)
