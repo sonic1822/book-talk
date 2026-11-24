@@ -6,7 +6,7 @@ A full preparation for one book. It shows what the skill produces before the tal
 
 ## Intake (what the parent said)
 
-"My daughter is 9 and has just finished *Anne of Green Gables*, right to the last page. She has the book with her. She's good on the characters, but when I ask about a word she just says it's more interesting. Please coach me in English."
+"My daughter is 9 and has just finished *Anne of Green Gables*, right to the last page. She has the book with her. She's good on the characters, but when I ask what a book is about, she tells me how it made her feel. Her teacher's reading target this term is summarising. Please coach me in English."
 
 ## Book Brief
 
@@ -48,46 +48,50 @@ UNSURE: none
 ## The plan (10 questions, about 30 minutes)
 
 ```
-FOCUS: words: from a word to what it makes the reader feel (type 5)
-STRENGTHS: reads characters well (from the parent); enjoys choosing between two versions
+LADDER: first talk, so start on floor 1 (the whole book)
+  Main floor: 1 · New rung: 1b (the whole book in three sentences, events first)
+  Secure (from the parent): 2a (characters)
+  School target: summarising → 1b, and later 2c (main idea with evidence)
+STRENGTHS: reads characters well; enjoys choosing between two versions
 BRIDGES:
-  after Q3  "Which words in what Marilla says at the end show it most? What if she had just said
-             'I'm glad you stayed'?"
-  Q5        picture it → two versions → "Now you make up a plain name for the pond. Read both. What did yours lose?"
-  after Q1  if she names a part she loved: "Find the line. Which word makes it?"
+  Q2  if she starts with feelings: "That's how it felt. Now tell me who wanted what." (from feelings to events)
+  Q3  from characters to the whole book: "Marilla wanted a boy. Anne wanted a home. What's the big
+      problem the whole book has to solve?"
+  Q2  if she gives a theme ("it's about friendship"): "Make it three sentences your friend could
+      picture: who, what goes wrong, how it ends."
 ```
 
-| # | Type | Say | Why it's here | Listen for |
-|---|---|---|---|---|
-| 1 | First response | "What did you think of Anne? Was there a part you loved, or a part that puzzled you?" | Start with her; catch confusion early | A specific part and a reason |
-| 2 | Sum up | "Tell me Anne's story as if I were three years younger than you." | Her own words; the turning points | The mix-up at the start, the scholarship, staying |
-| 3 | Characters | "At the very start Marilla says, 'Where is the boy?' At the end she tells Anne she loves her 'as dear as if you were my own flesh and blood.' How did Marilla change? Find one moment in between where it starts." | Change over the book; evidence from two places | A middle moment where Marilla softens |
-| 4 | One word | "When Anne asks Matthew if things ever give him a thrill, the book says he 'ruminated'. What do you think *ruminated* means? How did you work it out?" | A word from context | "He thought about it slowly"; the pause before "Well now, yes" |
-| 5 | Picture it + word | "Close your eyes: Anne looks at Barry's pond and calls it 'the Lake of Shining Waters'. What do you see? Why does a new name change the place for her?" | Seeing, then how words change things | Names make ordinary things special; it's how Anne copes |
-| 6 | Author's choices | "Montgomery lets us know Marilla loves Anne long before Anne knows. How does she let us know? Why not have Marilla just say it early on?" | The author as the one choosing | Small actions or private thoughts; it keeps us hoping |
-| 7 | Stance (preview) | "Anne says she took the brooch, but she didn't. Was she wrong to say it?" | Position, evidence, holding it | A reason from the book, kept or changed for a reason |
-| 8 | Connections | "Have you ever given something a new name? Why?" → "Where in the book does Anne do it for the same reason?" | Self, then back to the book | The link and the reason |
-| 9 | Author's choices | "Most of Anne's disasters are funny. Is there a moment where the funny stops? How does the writing change?" | Tone as a choice (skip if Matthew's death upsets her) | Shorter, quieter, no jokes |
-| 10 | Close | "Earlier you worked out that Marilla cared before she said it. How did you work that out?" | Her own reading tip | A method in her words |
+| # | Question | Rung | Type | Say | Why it's here | Listen for |
+|---|---|---|---|---|---|---|
+| 1 | 1 · whole book | — | First response | "What did you think of Anne? Was there a part you loved, or a part that puzzled you?" | Start with her; catch confusion early | A specific part and a reason |
+| 2 | 1 · whole book | **1b** | Sum up | "Tell me Anne's whole story in three sentences, for a friend who hasn't read it." (Scaffold only if needed: who wants what, what gets in the way, how it ends.) | The new rung: events first, not feelings | The mix-up at the start, Anne winning Marilla over, giving up the scholarship to stay |
+| 3 | 1 · whole book | 1d | Sum up | "Marilla wanted a boy and Anne wanted a home. What's the big problem the whole book is solving? When is it solved?" | Bridge from her strength to the whole book | Anne finding where she belongs; solved when Marilla says she loves her, or when Anne stays |
+| 4 | 2 · in detail | 2a | Characters | "At the very start Marilla says, 'Where is the boy?' At the end she tells Anne she loves her 'as dear as if you were my own flesh and blood.' How did Marilla change? Find one moment in between where it starts." | Secure rung: keep it quick | A middle moment where Marilla softens |
+| 5 | 2 · in detail | — | One word | "When Anne asks Matthew if things ever give him a thrill, the book says he 'ruminated'. What do you think *ruminated* means? How did you work it out?" | A word from context; one quick question | "He thought about it slowly"; the pause before "Well now, yes" |
+| 6 | 2 · in detail | 2d | One moment | "Close your eyes: Anne asks Matthew about 'that white place we came through'. What do you see? Matthew calls it 'the Avenue'; Anne calls it 'the White Way of Delight'. What does her name do to the place?" | A look at floor 2; quick | Names make ordinary things special; it's how Anne copes |
+| 7 | 2 · in detail | 2b | Author's choices | "Montgomery lets us know Marilla loves Anne long before Anne knows. How does she let us know? Why not have Marilla just say it early on?" | How one thing is set up for another | Small actions or private thoughts; it keeps us hoping |
+| 8 | 3 · true? good? | 3d | Stance (preview) | "Anne says she took the brooch, but she didn't. Was she wrong to say it?" | Position, evidence, holding it | A reason from the book, kept or changed for a reason |
+| 9 | 4 · what of it | — | Connections | "Have you ever given something a new name? Why?" → "Where in the book does Anne do it for the same reason?" | Self, then back to the book | The link and the reason |
+| 10 | 4 · what of it | — | Close | "You told me the whole book in three sentences. What did you do first, to choose what to put in?" | Her own tip for the new rung | A method in her words ("I started with what Anne wanted") |
 
 Optional, if she is keen: a second stance question ("Was Anne right to give up the scholarship?").
 
 ## Sample coaching turns
 
-**Bridge one step (after question 3)**
+**The new rung (question 2): feelings first, then a bridge to events**
 
-*Child (illustrative):* "At the start Marilla just wants a boy to help, but at the end she really loves Anne, like she's her own."
-*Next move (bridge towards the focus, using her words):*
+*Child (illustrative):* "It's a really happy book, but sad at the end. Anne is really funny and she has lots of adventures."
+*Next move (sharpen it towards 1b, using her words):*
 
 ```
-Say:  You said "like she's her own". Find what Marilla says that night. Read it to me.
-      Which words show it most?
-If stuck:  1) Read it again slowly. Which words would you underline?
-           2) What if she'd just said "I'm glad you stayed"? What would be missing?
-Listen for: "flesh and blood": it makes Anne sound like real family, not someone she looks after
+Say:  That's how it felt, and you're right about the end. Now your friend asks, "But what happens?"
+      Who does Anne want to be with, and what nearly stops her?
+If stuck:  1) Who did the Cuthberts ask for, and who came instead?
+           2) At the very start, does Marilla want to keep her?
+Listen for: Anne wanting a home, Marilla nearly sending her back, Anne staying in the end
 ```
 
-**Turn for question 6**
+**Turn for question 7**
 
 ```
 Say:  Montgomery lets us know Marilla loves Anne long before Anne knows. How does she let us know?
@@ -99,7 +103,7 @@ Listen for:  small actions or private thoughts that show love she won't say
 *Child (illustrative):* "Because she pretends to be strict but she lets her stay."
 *Next move (follow up on her words):* "You said 'pretends'. How can we tell it's pretending? Where does it show?"
 
-**Turn for question 7: preview, then challenge once**
+**Turn for question 8: preview, then challenge once**
 
 ```
 Say:  (after she answers "Yes, it was wrong, because lying is wrong")
@@ -112,24 +116,28 @@ Listen for:  she keeps her view with a reason from the book, or changes it and s
 *Child (illustrative):* "It's still wrong, because Marilla believed something that wasn't true."
 *Next move:* "You stayed standing, and you gave a reason. Let's go on." (Note for the summary: held, with a reason.)
 
-**Two-versions move (if question 5 stalls at "it's more interesting")**
+**Two-versions move (if question 6 stalls at "it's more interesting")**
 
 ```
-Say:  Here are two ways to say it. Version A (the author's): "the Lake of Shining Waters".
-      Version B (mine): "Barry's pond". Which one would you rather go and see? Why?
+Say:  The book gives you two names for the same place. Matthew's: "the Avenue".
+      Anne's: "the White Way of Delight". Which one would you rather ride under? Why?
+      (Anne herself says, "There is no meaning in a name like that." What does hers mean?)
 ```
 
 ## Sample summary excerpt (for the parent)
 
 ```
-Focus: words. Today's step: after explaining how Marilla changed, she found "flesh and blood"
-herself and said it makes Anne sound like real family (bridge after Q3, help 1). She explained
-clearly why Anne renames places, and needed one narrow hint to see how Montgomery shows Marilla's
-love before Anne knows (Q6, help 2). She held her position on the brooch with a reason.
-Next time: the focus stays on words. Start from two versions, which she enjoys, and let her make
-the plain one.
+Main floor 1 · new rung 1b. Today's step: her first answer was all feelings ("really happy, sad at
+the end"), but after one question about who wanted what she told the whole book in three sentences,
+starting with the Cuthberts wanting a boy (Q2, help 1). She found the big problem herself: Anne
+needing somewhere to belong (Q3, help 0). Characters stay her strength. She held her position on the
+brooch with a reason.
+
+Ladder record: 1b help 1 · 1d help 0 · 2a help 0 · 2b help 2 · 2d help 1 · 3d help 0
+Secure: 2a · Next new rung: 1b again, without the scaffold; if she starts with events on her own,
+open 1c (the big parts) next time.
 
 Ask again in about 4 weeks:
-- "How does Montgomery let us know Marilla loves Anne long before Anne knows?"
+- "Tell me the whole book in three sentences, for a friend who hasn't read it." (a book she has just finished)
 - "Was Anne wrong to say she took the brooch?"
 ```

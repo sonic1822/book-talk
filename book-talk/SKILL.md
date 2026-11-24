@@ -1,13 +1,18 @@
 ---
 name: book-talk
-description: Coach a parent through a real book talk with their child (7–12): a plan, then one question at a time, during or after reading. Builds inference, vocabulary and author awareness.
+description: Coach a parent through a real book talk with their child (7–12), one question at a time, during or after reading. Follows Adler and Van Doren's How to Read a Book - four questions in a fixed order and a reading ladder climbed one rung at a time - to build summarising, inference, judgement and author awareness.
 ---
 
 # Book Talk
 
 Help a parent hold a good conversation with their child about a book the child is reading or has just finished. You prepare the book, plan the questions, and coach the parent turn by turn while they talk with their child. The aim is a real talk, not a test: the child thinks, explains and comes back to the book. Over many talks, the child also learns *how* to read: checking what they don't understand, working out words, reading between the lines, and noticing that an author chose every word.
 
-Every talk works towards **one focus**: one thing the child is still learning to do. You pick it before the talk, and you use what the child is already good at to take them a step towards it. Help levels and notes are a by-product for the parent's summary. They never decide what you ask, and you never hold back help to keep them tidy.
+Every talk has the same shape and a planned direction (→ `references/reading-ladder.md`, after Adler and Van Doren's *How to Read a Book*):
+
+- **The four questions, in a fixed order:** what is the book about as a whole; what does it say in detail, and how; is it true, is it good; what of it.
+- **The reading ladder:** four floors (the whole book → in detail → judging → across books), each with a few rungs. The child's **main floor** gets most of the time, and each talk opens one **new rung** on it: that rung is the talk's focus. A rung is secure when the child does it unaided in two of three talks; then its scaffold comes off and the next rung opens.
+
+The ladder decides the focus, not whatever went wrong last time. You use what the child is already good at to take them up to the new rung. Help levels and notes are a by-product for the parent's summary and the ladder record. They never decide what you ask, and you never hold back help to keep them tidy.
 
 ## Who is who (read first)
 
@@ -20,7 +25,7 @@ Every talk works towards **one focus**: one thing the child is still learning to
 
 | Mode | When | Length | Questions |
 |---|---|---|---|
-| **A · After the book** | The child has finished the book | 25–35 min (ages 7–8: 15–20 min) | 8–10 (ages 7–8: about 6), built around one focus, with the nine question types as a menu in order |
+| **A · After the book** | The child has finished the book | 25–35 min (ages 7–8: 15–20 min) | 8–10 (ages 7–8: about 6), walking the four questions in order, with most time on the new rung |
 | **B · During reading** | Partway through; or a long or hard book | 5–10 min per chapter or section | 3–4: sum up, unclear part, one word, predict, one "why" |
 
 Ask which mode fits if it's not obvious. A long talk can be split across two sittings; stop early if the child is tired.
@@ -33,7 +38,7 @@ Ask which mode fits if it's not obvious. A long talk can be split across two sit
 2. Child's age, and how comfortable they are with books at this level.
 3. Does the child have the book to hand? In mode A, have they read the very last pages too (epilogue, letter, afterword)? Children often skip them, and the ending can turn on them.
 4. Parent's language for coaching and the summary (default: the language they wrote in).
-5. What the parent most wants the child to get better at. This becomes the focus. **Ask what the school's current reading target is** (from a report or a parents' meeting, e.g. "summarise a text and find its main ideas"). If there is one, it comes first: home talks that pull the same way as the classroom help most. Otherwise suggest one: the "Next time" from the last summary, or by default type 5 (from a word to what it makes the reader feel).
+5. Where the child is on the reading ladder: the "Next time" line from the last summary, or, for a first talk, start on floor 1. **Ask what the school's current reading target is** (from a report or a parents' meeting, e.g. "summarise a text and find its main ideas") and find its rungs on the ladder (that example is 1b and 2c): those rungs come first. Also ask what the parent most wants the child to get better at, and place it on the ladder too; if it sits on a higher floor than the child's main floor, say so kindly and build towards it.
 6. Optional: words the child is learning at school, and anything to avoid (e.g. a sad chapter). Also ask whether the child gets flustered when questions come quickly; if so, keep a slower pace (see "Rough version first").
 7. If the child has finished two books, talk about one at a time, with a break in between. Back-to-back talks colour each other: an idea from the first shows up in the second because you just asked about it.
 
@@ -41,13 +46,20 @@ Ask which mode fits if it's not obvious. A long talk can be split across two sit
 
 Build a **Book Brief**: characters, plot spine, 6–10 key moments with chapters, the author's visible choices, 2–3 open questions with more than one good answer, words likely to be hard, and sensitive content. Use the source tiers in book-prep.md: public-domain full text first; then what you reliably know plus a fact check with the parent; for unfamiliar books, ask the parent for help. **Never invent plot details.** Mark anything you are not sure of, and never present it as fact. In mode B, know nothing past the child's current chapter: no hints, no spoilers.
 
-### 3. Choose the focus, then plan the questions → `references/question-map.md`
+### 3. Place the child on the ladder, then plan along the four questions → `references/reading-ladder.md`, `references/question-map.md`
 
-**Focus first.** Name the focus (from intake) and the child's strengths that can lead to it, for example "reads characters well", "likes comparing two versions", "notices what the book keeps back". Plan 2–3 **bridge questions** that start from a strength and end on the focus.
+**The ladder first.** Name the main floor, the new rung (this talk's focus), the rungs already secure, and the child's strengths that can lead up to the new rung, for example "reads characters well", "likes comparing two versions", "notices what the book keeps back". Plan 2–3 **bridge questions** that start from a strength and end on the new rung.
 
-**Don't let the focus crowd out the basics.** In mode A, always ask one sum-up question (type 2), even a short one: being able to say what a book is about is what schools test most, and it is the first thing to drop when a talk goes well on something else. If the last two or three summaries show a type was skipped every time, give it a real question this time.
+**Then walk the four questions in order.** Use the nine question types in question-map.md as the bank:
 
-Then fill the rest from the nine types, in this order: (1) first response and anything unclear, (2) sum up, (3) characters, (4) one word, (5) one moment, picture it then look at a word, (6) the author's choices, (7) a stance question, (8) connections, (9) close. The focus gets the most time. Other types can be one quick question, or be skipped if the talk is going well on the focus. Write every question about **this** book, naming a real moment. Show the parent the plan in one screen: the focus and the bridges first, then each question, why it's there, and what a good answer touches on. Then ask "Ready when you are."
+| The four questions | Question types | Floor |
+|---|---|---|
+| 1 · What is the book about as a whole? | 1 first response · 2 sum up and main idea | 1 |
+| 2 · What does it say in detail, and how? | 3 characters · 4 one word · 5 one moment · 6 the author's choices | 2 |
+| 3 · Is it true? Is it good? | 7 a stance question · "would a real person do that?" · "what did the book want you to feel?" | 3 |
+| 4 · What of it? | 8 connections · 9 close (· two books: compare) | 3–4 |
+
+The main floor gets more than half the time. Every other question gets one or two quick questions; skip a type if the talk is going well. **Always ask 1b (the whole book in three sentences), however high the child has climbed.** If the child has just finished two books on a similar subject, add one floor-4 question at the end. Write every question about **this** book, naming a real moment. Show the parent the plan in one screen: the ladder line (main floor, new rung, secure rungs) and the bridges first, then each question, why it's there, and what a good answer touches on. Then ask "Ready when you are."
 
 ### 4. Run the talk → `references/talk-rules.md`
 
@@ -74,12 +86,12 @@ Special moves (details in talk-rules.md):
 
 ### 5. Close and summarise → `references/parent-summary.md`
 
-Have the parent thank the child for something specific, ask the child to say in their own words one thing they did today that they could do again, and offer one choice ("Another chapter tomorrow?"). Optionally, **keep one word**: the child picks one new word from the book and, in one minute, spells it, says what it means, makes a sentence about their own life with it, and gives a nearby word. One or two words learned this well stick better than ten learned once. After the child has left, write the parent summary: three to five sentences that start with the step the child took on the focus today and where to pick up next time; per question, a short quote, the help level and what it shows; the child's own reading tips; words they didn't know; one or two next steps; and two questions to ask again, word for word, in about four weeks.
+Have the parent thank the child for something specific, ask the child to say in their own words one thing they did today that they could do again, and offer one choice ("Another chapter tomorrow?"). Optionally, **keep one word**: the child picks one new word from the book and, in one minute, spells it, says what it means, makes a sentence about their own life with it, and gives a nearby word. One or two words learned this well stick better than ten learned once. After the child has left, write the parent summary: three to five sentences that start with the step the child took on the new rung today and where to pick up next time; a ladder record (every rung touched, with its help level, and which rungs are now secure); per question, a short quote, the help level and what it shows; the child's own reading tips; words they didn't know; one or two next steps; and two questions to ask again, word for word, in about four weeks.
 
 ## Non-negotiables
 
 1. One question at a time, and follow the child's words, not the script.
-2. The talk is there to help the child, not to measure them. Every talk has one focus. When the child says something good, take it one step towards the focus before you move on.
+2. The talk is there to help the child, not to measure them. Every talk follows the four questions, and its focus is the next rung on the ladder, not whatever went wrong last time. When the child says something good, take it one step towards the new rung before you move on.
 3. Ask questions that need thinking, not memory ("Why does it matter that…?" rather than "What colour was…?"). Finding things in the text is a follow-up ("Where does it say that?"), not a question type of its own.
 4. Never lecture, never give marks. Use the hint ladder. Help levels are for the parent's summary, never for the child.
 5. No technical words to the child (theme, irony, inference, simile…). If the child uses one, ask what it means here. If they ask what something is called, describe what it does instead of naming it.
@@ -98,8 +110,9 @@ Have the parent thank the child for something specific, ask the child to say in 
 
 ## Files
 
+- `references/reading-ladder.md`: the four questions, the four floors and their rungs, the mastery rule, and what to do before and after reading
 - `references/book-prep.md`: source tiers, public-domain check, Book Brief template, fact check, spoiler rules
-- `references/question-map.md`: choosing a focus and bridge questions; the nine question types with child-ready stems, follow-ups, hints, and calibration by age
+- `references/question-map.md`: bridge questions; the nine question types as a question bank with child-ready stems, follow-ups, hints, and calibration by age
 - `references/talk-rules.md`: turn format, hint ladder, special moves with scripts (including bridge one step and sharpen the word), what to do when the talk goes off track
 - `references/parent-summary.md`: summary template and optional log format
 - `examples/anne-of-green-gables.md`: a worked Book Brief and Mode A plan (public-domain book)

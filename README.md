@@ -11,7 +11,7 @@ It grew out of several weeks of real book talks with a 9-year-old reader in Year
 ## What it does
 
 1. **Gets the book ready.** It builds a short brief: the characters, the key moments with chapter numbers, the author's notable choices, and questions with more than one good answer. For public-domain books it works from the full text, and for anything else it checks the facts with you first, because it **never makes up plot details**.
-2. **Plans the talk around one focus.** You say what you'd most like your child to get better at, or it suggests something. It plans two or three "bridge" questions that start from what your child already does well and lead towards that focus, then fills out 8–10 questions from nine types, from the easiest to the deepest.
+2. **Plans the talk along a fixed path.** Every talk asks the four questions from Adler and Van Doren's *How to Read a Book*, in order, and climbs a reading ladder one rung at a time: first the whole book, then the detail, then judging it, then comparing books. The next rung, not whatever went wrong last time, is the talk's focus. It plans two or three "bridge" questions that start from what your child already does well and lead up to that rung.
 3. **Coaches you live.** Each turn gives you one question to read aloud, two hints ready in case your child gets stuck, and a note on what a good answer sounds like.
 4. **Sums it up.** Afterwards you get a short summary: the step your child took towards the focus, where to pick up next time, what they needed help with, their own reading tips, words they didn't know, and two questions to ask again in a month.
 
@@ -22,7 +22,27 @@ It grew out of several weeks of real book talks with a 9-year-old reader in Year
 | **After the book** | Your child has just finished a book | 25–35 minutes, 8–10 questions (shorter for 7–8-year-olds) |
 | **During reading** | Partway through a book, or a long or hard book | 5–10 minutes per chapter, 3–4 questions, with no spoilers |
 
-## The nine question types
+## The four questions and the reading ladder
+
+Every talk asks the four questions a good reader asks of any book, in this order (from *How to Read a Book*):
+
+1. **What is the book about as a whole?**
+2. **What does it say in detail, and how?**
+3. **Is it true? Is it good?** Understand first, judge second.
+4. **What of it?**
+
+The ladder turns them into skills your child climbs one rung at a time:
+
+| Floor | Rungs |
+|---|---|
+| 1 · The whole book | what kind of story · the whole book in three sentences · the big parts · the central problem |
+| 2 · In detail | why characters act and change · cause and effect · the main idea with evidence from start and end · a line the book works hard on |
+| 3 · Judging | what the book wanted you to feel · likes and dislikes, with the place in the book · would a real person do that? · standing your ground |
+| 4 · Across books | two books on the same subject: how they differ |
+
+Most of each talk goes to the next rung on your child's floor. A rung is secure when your child does it unaided in two of three talks; then the support comes off and the next rung opens. The summary after each talk shows where your child is on the ladder.
+
+### The question bank: nine types
 
 | # | Type | For example |
 |---|---|---|
@@ -50,7 +70,8 @@ You read the question out, then type in what your child said. Claude suggests th
 
 ## The principles behind it
 
-- **It's there to help, not to test.** Each talk has one focus. When your child says something good, Claude helps you take it one step further before moving on.
+- **It's there to help, not to test.** Each talk climbs one rung. When your child says something good, Claude helps you take it one step further before moving on.
+- **Don't spoil the first read.** Nothing to do while reading; after finishing, three sticky notes (where it turns, a favourite line, a puzzling bit) so the evidence is at hand.
 - **One question at a time**, and follow what the child actually says, not the script.
 - **Questions that need thinking, not memory.** Ask "Why does it matter that…?", not "What colour was…?"
 - **A hint ladder, not lectures.** When Claude does give the answer, it shows the path: *clue + what we know → so…*
@@ -94,6 +115,7 @@ Don't give Claude your child's full name, school or other identifying details. K
 
 ## Where it comes from
 
+- Mortimer J. Adler and Charles Van Doren, *How to Read a Book* (revised edition, 1972): the four questions, the stages of reading a book (structure, interpretation, criticism) and comparing books. The rungs, the mastery rule and the sticky notes are this skill's adaptation for children.
 - Aidan Chambers, *Tell Me: Children, Reading and Talk*: the "likes, dislikes, puzzles, patterns" opening
 - Isabel Beck, Margaret McKeown et al., *Questioning the Author*: making the author visible
 - Ellin Keene and Susan Zimmermann, *Mosaic of Thought*: text-to-self, text-to-text and text-to-world connections

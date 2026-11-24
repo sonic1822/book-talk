@@ -1,10 +1,10 @@
 # The question map
 
-Nine types, asked roughly in this order: from concrete to abstract, and from the child's own response to the author's choices. In mode A, pick 8–10 questions around the focus: give the focus two or three questions, including the bridge questions, and give each other type one quick question, or skip it if the talk is going well on the focus. Types 2 and 4 can be very short. In mode B, use the shorter set at the bottom, and let the focus decide which one or two get the most time.
+Nine types, used as a **question bank** for the four questions in reading-ladder.md: types 1–2 serve question 1 (the book as a whole), types 3–6 question 2 (in detail), type 7 question 3 (is it true, is it good), types 8–9 question 4 (what of it). In mode A, pick 8–10 questions along the four questions: give the new rung two or three questions, including the bridge questions, and give the rest one quick question each, or skip them if the talk is going well. Type 2 is never skipped. In mode B, use the shorter set at the bottom, and let the new rung decide which one or two get the most time.
 
 ## The focus and bridge questions
 
-**The focus** is one thing the child is still learning to do. If the school has set a reading target this term, start from it. Otherwise, most often it's type 5 (from a word to what it makes the reader feel) or type 6 (seeing the author as the one choosing), because those come slowest. It can be any type: summing up without retelling everything, or giving evidence from two places.
+**The focus** is the new rung on the child's main floor of the reading ladder (reading-ladder.md): one thing the child is still learning to do, chosen by the ladder's order, not by whatever went wrong last time. If the school has set a reading target this term, its rungs come first. Work from the ground up: words and the author's choices (types 5–6) come slowest, but they sit on floors 2 and 3, and they only hold once the child can say what the whole book is about.
 
 **Bridge questions** start where the child is already strong and end on the focus. Plan two or three:
 
