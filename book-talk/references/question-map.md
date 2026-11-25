@@ -1,6 +1,6 @@
 # The question map
 
-Nine types, used as a **question bank** for the four questions in reading-ladder.md: types 1–2 serve question 1 (the book as a whole), types 3–6 question 2 (in detail), type 7 question 3 (is it true, is it good), types 8–9 question 4 (what of it). In mode A, pick 8–10 questions along the four questions: give the new rung two or three questions, including the bridge questions, and give the rest one quick question each, or skip them if the talk is going well. Type 2 is never skipped. In mode B, use the shorter set at the bottom, and let the new rung decide which one or two get the most time.
+Nine types, used as a **question bank** for the four questions in reading-ladder.md: types 1–2 serve question 1 (the book as a whole), types 3–6 question 2 (in detail), type 7 question 3 (is it true, is it good), types 8–9 question 4 (what of it). In mode A, pick about 8 questions for 30 minutes along the four questions (timing table in reading-ladder.md): give the new rung two or three questions, including the bridge questions, and give the rest one quick question each, or skip them if the talk is going well. Type 2 is never skipped. In mode B, use the shorter set at the bottom, and let the new rung decide which one or two get the most time.
 
 ## The focus and bridge questions
 

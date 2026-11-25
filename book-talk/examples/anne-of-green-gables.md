@@ -45,7 +45,7 @@ SENSITIVE: Matthew's death (ch 37). Ask the parent before going there.
 UNSURE: none
 ```
 
-## The plan (10 questions, about 30 minutes)
+## The plan (8 questions, 30 minutes)
 
 ```
 LADDER: first talk, so start on floor 1 (the whole book)
@@ -67,12 +67,10 @@ BRIDGES:
 | 2 | 1 · whole book | **1b** | Sum up | "Tell me Anne's whole story in three sentences, for a friend who hasn't read it." (Scaffold only if needed: who wants what, what gets in the way, how it ends.) | The new rung: events first, not feelings | The mix-up at the start, Anne winning Marilla over, giving up the scholarship to stay |
 | 3 | 1 · whole book | 1d | Sum up | "Marilla wanted a boy and Anne wanted a home. What's the big problem the whole book is solving? When is it solved?" | Bridge from her strength to the whole book | Anne finding where she belongs; solved when Marilla says she loves her, or when Anne stays |
 | 4 | 2 · in detail | 2a | Characters | "At the very start Marilla says, 'Where is the boy?' At the end she tells Anne she loves her 'as dear as if you were my own flesh and blood.' How did Marilla change? Find one moment in between where it starts." | Secure rung: keep it quick | A middle moment where Marilla softens |
-| 5 | 2 · in detail | — | One word | "When Anne asks Matthew if things ever give him a thrill, the book says he 'ruminated'. What do you think *ruminated* means? How did you work it out?" | A word from context; one quick question | "He thought about it slowly"; the pause before "Well now, yes" |
-| 6 | 2 · in detail | 2d | One moment | "Close your eyes: Anne asks Matthew about 'that white place we came through'. What do you see? Matthew calls it 'the Avenue'; Anne calls it 'the White Way of Delight'. What does her name do to the place?" | A look at floor 2; quick | Names make ordinary things special; it's how Anne copes |
-| 7 | 2 · in detail | 2b | Author's choices | "Montgomery lets us know Marilla loves Anne long before Anne knows. How does she let us know? Why not have Marilla just say it early on?" | How one thing is set up for another | Small actions or private thoughts; it keeps us hoping |
-| 8 | 3 · true? good? | 3d | Stance (preview) | "Anne says she took the brooch, but she didn't. Was she wrong to say it?" | Position, evidence, holding it | A reason from the book, kept or changed for a reason |
-| 9 | 4 · what of it | — | Connections | "Have you ever given something a new name? Why?" → "Where in the book does Anne do it for the same reason?" | Self, then back to the book | The link and the reason |
-| 10 | 4 · what of it | — | Close | "You told me the whole book in three sentences. What did you do first, to choose what to put in?" | Her own tip for the new rung | A method in her words ("I started with what Anne wanted") |
+| 5 | 2 · in detail | 2d | One moment | "Close your eyes: Anne asks Matthew about 'that white place we came through'. What do you see? Matthew calls it 'the Avenue'; Anne calls it 'the White Way of Delight'. What does her name do to the place?" | A look at floor 2; quick | Names make ordinary things special; it's how Anne copes |
+| 6 | 2 · in detail | 2b | Author's choices | "Montgomery lets us know Marilla loves Anne long before Anne knows. How does she let us know? Why not have Marilla just say it early on?" | How one thing is set up for another | Small actions or private thoughts; it keeps us hoping |
+| 7 | 3 · true? good? | 3d | Stance (preview) | "Anne says she took the brooch, but she didn't. Was she wrong to say it?" | Position, evidence, holding it | A reason from the book, kept or changed for a reason |
+| 8 | 4 · what of it | — | Close | "You told me the whole book in three sentences. What did you do first, to choose what to put in?" | Her own tip for the new rung | A method in her words ("I started with what Anne wanted") |
 
 Optional, if she is keen: a second stance question ("Was Anne right to give up the scholarship?").
 
@@ -91,7 +89,7 @@ If stuck:  1) Who did the Cuthberts ask for, and who came instead?
 Listen for: Anne wanting a home, Marilla nearly sending her back, Anne staying in the end
 ```
 
-**Turn for question 7**
+**Turn for question 6**
 
 ```
 Say:  Montgomery lets us know Marilla loves Anne long before Anne knows. How does she let us know?
@@ -103,7 +101,7 @@ Listen for:  small actions or private thoughts that show love she won't say
 *Child (illustrative):* "Because she pretends to be strict but she lets her stay."
 *Next move (follow up on her words):* "You said 'pretends'. How can we tell it's pretending? Where does it show?"
 
-**Turn for question 8: preview, then challenge once**
+**Turn for question 7: preview, then challenge once**
 
 ```
 Say:  (after she answers "Yes, it was wrong, because lying is wrong")
@@ -116,7 +114,7 @@ Listen for:  she keeps her view with a reason from the book, or changes it and s
 *Child (illustrative):* "It's still wrong, because Marilla believed something that wasn't true."
 *Next move:* "You stayed standing, and you gave a reason. Let's go on." (Note for the summary: held, with a reason.)
 
-**Two-versions move (if question 6 stalls at "it's more interesting")**
+**Two-versions move (if question 5 stalls at "it's more interesting")**
 
 ```
 Say:  The book gives you two names for the same place. Matthew's: "the Avenue".

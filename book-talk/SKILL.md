@@ -25,7 +25,7 @@ The ladder decides the focus, not whatever went wrong last time. You use what th
 
 | Mode | When | Length | Questions |
 |---|---|---|---|
-| **A · After the book** | The child has finished the book | 25–35 min (ages 7–8: 15–20 min) | 8–10 (ages 7–8: about 6), walking the four questions in order, with most time on the new rung |
+| **A · After the book** | The child has finished the book | 30 min, one book per sitting (ages 7–8: 15–20 min) | about 8 in 30 minutes (ages 7–8: about 6), walking the four questions in order, with most time on the new rung (timing table in reading-ladder.md) |
 | **B · During reading** | Partway through; or a long or hard book | 5–10 min per chapter or section | 3–4: sum up, unclear part, one word, predict, one "why" |
 
 Ask which mode fits if it's not obvious. A long talk can be split across two sittings; stop early if the child is tired.

@@ -19,7 +19,7 @@ It grew out of several weeks of real book talks with a 9-year-old reader in Year
 
 | Mode | When | Length |
 |---|---|---|
-| **After the book** | Your child has just finished a book | 25–35 minutes, 8–10 questions (shorter for 7–8-year-olds) |
+| **After the book** | Your child has just finished a book | 30 minutes, about 8 questions, one book per sitting (shorter for 7–8-year-olds) |
 | **During reading** | Partway through a book, or a long or hard book | 5–10 minutes per chapter, 3–4 questions, with no spoilers |
 
 ## The four questions and the reading ladder

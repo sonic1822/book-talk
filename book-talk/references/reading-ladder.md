@@ -13,6 +13,24 @@ The four levels, the four questions and the three stages come from the book. The
 
 Ask all four in every mode A talk. The child's **main floor** (below) gets more than half the time; the other questions get one or two quick questions each. Never judge (question 3) before the child has shown they understand (questions 1 and 2): the book's rule is "don't say you agree or disagree until you can say what it says".
 
+## Timing: 30 minutes, about 8 questions (mode A, ages 9–12)
+
+A planned question with its follow-ups takes about three minutes; the new rung takes longer, because it needs bridges. In real talks a quick 9-year-old managed a turn a minute, and tired at around 35 minutes. So plan one book per sitting, 30 minutes, about 8 questions:
+
+| The four questions | Time | Questions | What |
+|---|---|---|---|
+| 1 · The whole book (the main floor, while it is floor 1) | 15 min | 4 | first response (2) · 1b, the whole book in three sentences (3) · **the new rung, with two or three bridges (7)** · one other floor-1 rung (3) |
+| 2 · In detail | 6 min | 2 | one quick character question · one of: cause and effect, main idea with evidence, a line the book works hard on |
+| 3 · True? Good? | 6 min | 1 | a stance question with a preview, challenged once |
+| 4 · What of it? | 3 min | 1 | what the book leaves them with; then their own tip for today |
+
+- Eight is a ceiling, not a target. If the new rung needs more time, take it from questions 2 and 3, never from question 1.
+- When the main floor moves up, it takes the 15 minutes; question 1 shrinks to 1b and one quick question.
+- Stop at 30 minutes. Whatever is left waits for next time.
+- Two books finished together: two sittings, not one long one.
+- "Keep one word" is outside the 30 minutes: do it later, with the child's word cards, one or two words a week.
+- Ages 7–8: about 15–20 minutes and 5–6 questions; keep the same order and cut from questions 2 and 3.
+
 ## The ladder
 
 Four floors, from the ground up. A child can show flashes higher up, but a floor only holds if the one below it does.
